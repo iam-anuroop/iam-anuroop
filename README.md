@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuroop61408179" target="blank"><img src="https://img.shields.io/twitter/follow/anuroop61408179?logo=twitter&style=for-the-badge" alt="anuroop61408179" /></a> </p>
 
-- 🌱 I’m currently learning **PYTHON DJANGO**
+- 🌱 I’m currently Working on a **Online Food Delivery Website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
