@@ -1,15 +1,12 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Anuroop T</h1>
-<h2 align="center">A FULLSTACK DEVELOPER from India</h3>
+<h2 align="center">A FULLSTACK DEVELOPER | DJANGO DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-anuroop&label=Profile%20views&color=0e75b6&style=flat" alt="iam-anuroop" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anuroop61408179" target="blank"><img src="https://img.shields.io/twitter/follow/anuroop61408179?logo=twitter&style=for-the-badge" alt="anuroop61408179" /></a> </p>
-
-- 🌱 I’m currently Working on a **Online Food Delivery Website**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anuroop61408179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuroop61408179" height="30" width="40" /></a>
