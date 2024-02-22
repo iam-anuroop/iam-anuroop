@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anuroop T</h1>
 <h2 align="center">A FULLSTACK DEVELOPER | DJANGO DEVELOPER</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
