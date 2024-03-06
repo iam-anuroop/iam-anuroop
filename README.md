@@ -104,21 +104,10 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       <br>C
     </td>
-    
-    </td>
-      <td align="center" width="96">
-       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="icon" width="62" height="62"  />
-      <br>Swagger API
-    </td>
     </td>
       <td align="center" width="96">
        <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
       <br>JWT
-    </td>
-    </td>
-      <td align="center" width="96">
-       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/5eeac37f-2378-4d06-9399-29dd46554ce9" alt="icon" width="62" height="62"  />
-      <br>PyTest
     </td>
  </tr>
 </table>
