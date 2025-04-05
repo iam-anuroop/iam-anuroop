@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Anuroop T</h1>
-<h2 align="center">FULLSTACK DEVELOPER  |  DJANGO DEVELOPER</h3>
+<h2 align="center">FULLSTACK DEVELOPER  |  PYTHON DEVELOPER</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"> -->
 
 
